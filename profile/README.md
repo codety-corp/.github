@@ -4,6 +4,6 @@ Codety (https://codety.io) aims to provide a scalable static code analysis solut
 
 Code quality is crucial because it directly impacts the reliability, maintainability, and performance of software. High-quality code reduces the likelihood of bugs and security vulnerabilities, making the software more stable and secure. It also facilitates easier updates and enhancements, saving time and costs in the long run. Moreover, well-written code improves collaboration among developers, as it is easier to understand, review, and modify. Ensuring high code quality ultimately leads to better user experiences and faster delivery of new features and fixes.
 
-[image](intro-diagram.png)
+![image](https://www.codety.io/assets/img/intro-diagram.png)
 
 Learn more from https://codety.io
